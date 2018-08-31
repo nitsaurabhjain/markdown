@@ -1,5 +1,9 @@
 Markdown cheat sheet
 ---
+
+[![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
+
+
 Headers
 ---------------------------
 # Header 1
@@ -68,11 +72,11 @@ Style|	Syntax|	Example|
 Definition lists
 ---------------------------
 Markdown
-:  Text-to-HTML conversion tool
+: Text-to-HTML conversion tool
 
  Authors
-:  John
-:  Luke
+: John
+: Luke
 
 Abbreviations
 ---------------------------
