@@ -1,20 +1,23 @@
 Markdown cheat sheet
 ---
-
 [![Build Status](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME}.png?branch=master)](https://travis-ci.org/{ORG-or-USERNAME}/{REPO-NAME})
 
-
 Headers
----------------------------
+---
 # Header 1
 ## Header 2
 ### Header 3
+
 Styling
 ---------------------------
-*Emphasize*  _emphasize_
+*Emphasize*   _emphasize_
+
 **Strong**  __strong__
+
 ==Marked text==
+
 ~~Mistaken text.~~
+
 > Quoted text.
  H~2~O is a liquid.
  2^10^ is 1024.
